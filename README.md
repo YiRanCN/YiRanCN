@@ -7,7 +7,7 @@
 
 ## 欢迎来到我的GitHub主页，我是YiRan，目前在一家物联网公司从事前后端开发工作。
 [![微信](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-yiranchengnan-blue)](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-yiranchengnan-blue)
-[![mail](https://img.shields.io/badge/mail-weichuang059%40163.com-brightgreen)](mailto:weichuang059@163.com)
+[![mail](https://img.shields.io/badge/mail-cniiot%40163.com-brightgreen)](mailto:cniiot@163.com)
 
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
