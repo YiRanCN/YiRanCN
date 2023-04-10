@@ -22,7 +22,7 @@
 - Vue
 - 其他
 
-![Image](https://raw.githubusercontent.com/YiRanCN/YiRanCN/master/物联网云平台产品架构图.png)
+![Image](images/物联网云平台产品架构图.png)
 
 
 
