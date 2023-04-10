@@ -5,7 +5,7 @@
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="180" height="180">
 </div>
 
-## 欢迎来到我的GitHub主页，我是YiRan，目前在一家物联网公司从事前后端开发工作。
+## 欢迎来到我的GitHub主页，我是YiRan，目前在一家物联网公司负责物联网云平台的技术团队，从事云平台的前后端研发工作。
 [![微信](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-yiranchengnan-blue)](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-yiranchengnan-blue)
 [![mail](https://img.shields.io/badge/mail-cniiot%40163.com-brightgreen)](mailto:cniiot@163.com)
 
@@ -21,6 +21,8 @@
 - Sentinel
 - Vue
 - 其他
+
+![Image](https://raw.githubusercontent.com/YiRanCN/YiRanCN/master/物联网云平台产品架构图.png)
 
 
 
