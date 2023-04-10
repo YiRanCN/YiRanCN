@@ -17,7 +17,7 @@
 - Spring/SpringBoot
 - Spring Cloud（服务注册和发现、负载均衡、Feign、API网关、流量控制、熔断降级、配置中心等等）
 - Netty
-- RocketMQ
+- RocketMQ/Kafka
 - Sentinel
 - Vue
 - 其他
