@@ -20,6 +20,7 @@
 - RocketMQ/Kafka
 - Sentinel
 - Vue
+- flutter/dart
 - 其他
 
 [物联网云平台产品架构](/物联网云平台产品架构.md)
