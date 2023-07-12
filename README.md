@@ -30,7 +30,7 @@
 
 [物联网云平台-APP端源码](https://github.com/YiRanCN/iot_cloud_flutter)
 
-[Iot Cloud说明文档](https://yirancn.github.io/docs/iotcloud/)
+[Iot Cloud说明文档](https://yirancn.github.io/docs/iotcloud/?_blank)
 
 
 
