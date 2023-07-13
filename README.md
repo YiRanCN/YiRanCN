@@ -24,13 +24,6 @@
 
 [物联网云平台产品架构](/物联网云平台产品架构.md)
 
-[物联网云平台-后端源码](https://github.com/YiRanCN/iot-cloud-backend)
-
-[物联网云平台-前端源码](https://github.com/YiRanCN/iot-cloud-frontend)
-
-[物联网云平台-APP端源码](https://github.com/YiRanCN/iot_cloud_flutter)
-
-[Iot Cloud说明文档](https://yirancn.github.io/docs/iotcloud/)
 
 
 
