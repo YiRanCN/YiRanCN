@@ -7,8 +7,8 @@
 
 ## 欢迎来到我的GitHub主页，我是YiRanCN，主要从事物联网云平台的研发工作。
 ### 从无到有，一行一行，码出一个免费、开源的物联网云平台，加油！
-[![微信](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-yiranchengnan-blue)](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-yiranchengnan-blue)
-[![mail](https://img.shields.io/badge/mail-cniiot%40163.com-brightgreen)](mailto:cniiot@163.com)
+
+微信号：jiot_cloud 邮箱：jiotcloud@163.com
 
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
@@ -22,7 +22,6 @@
 - flutter/dart
 - 其他
 
-[物联网云平台产品架构](/物联网云平台产品架构.md)
 
 
 
